@@ -1,0 +1,2 @@
+rqt_mypkg-master/rqt_example_cpp:rqt_mypkg-master/rqt_example_py
+-DCATKIN_DEVEL_PREFIX=/home/arek/rqt_test/devel -DCMAKE_INSTALL_PREFIX=/home/arek/rqt_test/install
